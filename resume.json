@@ -1,0 +1,87 @@
+{
+  "basics": {
+    "name": "Phil Helm",
+    "label": "Junior Javascript developer",
+    "picture": "",
+    "email": "phelm@phelm.co.uk",
+    "phone": "+44 (0) 7920 046 583",
+    "website": "http://phelm.co.uk",
+    "summary": "I have been working for OMG life for over a year, here we have brought Autographer - the world's first intelligent wearable camera to launch. This has been a fantastic experience as it is a pioneering product. I am currently responsible for the quality and release of the company's softare (Windows, OSX, iOS & Android apps), and the device firmware. This has been invaluable experience, I am now looking for new experiences where I can further develop my skills and knowledge of software engineering, which I am also studying in my own time.",
+    "location": {
+      "address": "761 C Wandsworth Road",
+      "postalCode": "SW8 3JF",
+      "city": "London",
+      "countryCode": "UK",
+      "region": "California"
+    },
+    "profiles": [{
+      "network": "GitHub",
+      "username": "phelma",
+      "url": "https://github.com/phelma/"
+    }, {
+      "network": "LinkedIn",
+      "username": "Phil-Helm",
+      "url": "http://uk.linkedin.com/pub/phil-helm/20/981/892/"
+    }]
+  },
+  "work": [{
+    "company": "OMG Life",
+    "position": "QA / Junior Developer",
+    "website": "http://autographer.com",
+    "startDate": "2013-04-01",
+    "endDate": "2014-11-24",
+    "summary": "OMG Life created Autographer",
+    "highlights": [
+      "Started as Primary QA for Photo management desktop application, handling hundreds of thousands of images from an automatic wearable camera",
+      "Moved into development for this application"
+    ]
+  }],
+  "education": [{
+    "institution": "Queen Mary University of London",
+    "area": "Mathematics",
+    "studyType": "BSc (Hons)",
+    "startDate": "2008-09-01",
+    "endDate": "2012-07-01",
+    "gpa": "4.0",
+    "courses": [
+      "Calculus", "Geometry", "Probability", "Number Theory", "Combinatorics", "Mathematical Writing", "Metric Spaces", "Linear Algebra", "Computing", "Cryptography", "Entrepreneurship and Innovation", "Problem Solving", "Algebra", "Graph Theory"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Junior",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript"
+    ]
+  }, {
+    "name": "Software Development",
+    "level": "Various",
+    "keywords": [
+      "Jenkins - Intermediate",
+      "Git - Advanced"
+    ]
+  }, {
+    "name": "Software",
+    "level": "various",
+    "keywords": [
+      "Xcode",
+      "Visual Studio",
+      "Chrome Developer tools",
+      "Sublime text",
+      "GitHub"
+    ]
+  }],
+  "languages": [{
+    "language": "English",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Activities",
+    "keywords": [
+      "Live Music",
+      "Rock climbing"
+    ]
+  }]
+}
