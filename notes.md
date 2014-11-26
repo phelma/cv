@@ -1,18 +1,38 @@
 # Notes
 
 ## Skills
-JS - 2
-CSS - 2
-HTML - 2
-Backbone - 1
-JQuery - 2
-NodeJS - 1
+JS ++
+CSS ++
+HTML ++
+Backbone +
+JQuery ++
+NodeJS +
 
-SVG - 2
-Git - 3
-Jenkins - 3
-Selenium - 2
-Ruby - 1
+Git +++
+Jenkins CI/CD +++
+Selenium ++
+SVG ++
+Ruby +
+Agile ++
+
+NPM ++
+Gulp ++
+JSON +++
+TDD +
+BDD +
+SQL & noSQL +
+REST ++
 
 ## private GH activity
 <http://imgur.com/6znEOis>
+
+## job with craig
+<http://creativepool.com/jobs/EUK/E2694/J76430/Digital-Designer-Entry-Level>
+
+## Agencies
+<http://cogsagency.com>
+
+## To Lean
+* sass / scss / less
+* tdd / bdd
+* Angular / Ember / BackBone
